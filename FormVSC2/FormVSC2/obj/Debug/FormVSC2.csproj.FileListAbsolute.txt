@@ -1,0 +1,10 @@
+D:\kanyewest\FormVSC2\FormVSC2\bin\Debug\FormVSC2.exe.config
+D:\kanyewest\FormVSC2\FormVSC2\bin\Debug\FormVSC2.exe
+D:\kanyewest\FormVSC2\FormVSC2\bin\Debug\FormVSC2.pdb
+D:\kanyewest\FormVSC2\FormVSC2\obj\Debug\FormVSC2.csproj.AssemblyReference.cache
+D:\kanyewest\FormVSC2\FormVSC2\obj\Debug\FormVSC2.LoginScreen.resources
+D:\kanyewest\FormVSC2\FormVSC2\obj\Debug\FormVSC2.Properties.Resources.resources
+D:\kanyewest\FormVSC2\FormVSC2\obj\Debug\FormVSC2.csproj.GenerateResource.cache
+D:\kanyewest\FormVSC2\FormVSC2\obj\Debug\FormVSC2.csproj.CoreCompileInputs.cache
+D:\kanyewest\FormVSC2\FormVSC2\obj\Debug\FormVSC2.exe
+D:\kanyewest\FormVSC2\FormVSC2\obj\Debug\FormVSC2.pdb
